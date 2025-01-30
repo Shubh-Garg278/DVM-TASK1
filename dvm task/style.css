@@ -1,0 +1,206 @@
+*{
+    margin:0;
+    font-family:Helvetica, arial,sans-serif;
+    border: border-box;
+   padding:0;
+}
+.navbar{
+    height:42px;
+    background-color:white;
+    padding-left:80px;
+    padding-top:16px;
+    display:flex;
+    
+}
+.nav-logo{
+    height:21.99px;
+    width:73.72px;
+}
+.logo{
+    background-image:url(logitechg.jpg);
+    height:15.99px;
+    width:66px;
+    background-size:cover;
+    color:#697172;
+    
+    
+}
+.border{
+    border:2px solid transparent;
+}
+.border:hover{
+    border:2px solid black;
+}
+.add{
+    padding-left:20px;
+    color:#697172;
+}
+.shit{
+   color:#697172;
+    padding-left:20px;
+    width:183.33px;
+    margin-right:20px;
+    font-weight:100;
+   
+}
+.empty{
+        width:890px;
+        margin-right:20px;
+        
+}
+.india{
+    color:#697172;
+    width:183.33px;
+    
+}
+.image{
+    background-image:url(logitec.jpg);
+    height:500px;
+   background-size:cover;
+   
+    
+
+}
+.new{
+    font-weight:700;
+    color:white;
+   padding-top:30px;
+   padding-left:80px;
+   display:flex;
+}
+.logi{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-right:350px;
+}
+.head{
+    margin-right:40px;
+ 
+  
+}
+.bore{
+        border:2px solid transparent;
+}
+.bore:hover{
+    color:black;
+    border:2px solid white;
+    border-radius: 35%;
+    border-left-width:10px;
+    border-right-width:10px;
+    transition-duration: 0.3s;
+    background-color: white;
+    
+}
+.meet{
+    padding-top:50px;
+    color:white;
+    font-size:30px;
+    font-weight: 900;
+    padding-left:80px;
+
+}
+.hi{
+    padding-top:0px;
+    color:white;
+    font-size:30px;
+    font-weight: 900;
+    padding-left:80px;
+
+}
+.next{
+    padding-top:20px;
+    color:white;
+    font-size:18px;
+    font-weight:50;
+    padding-left:80px ;
+    font-stretch:extra-expanded;
+    font-family:helvetica;
+}
+.alpha{
+    padding-top:0px;
+    color:white;
+    font-size:18px;
+    font-weight:50;
+    padding-left:80px ;
+    font-stretch:extra-expanded;
+    font-family:helvetica;
+}
+.button-container {
+     height: 20vh;
+   padding-left:80px;
+   padding-top:20px;
+   margin-right:20px;
+
+  }
+  
+  .filled-border-button {
+    background-color: white;
+    color: black;
+    border: 2px solid white; /* Matches the background color */
+    font-weight: 530;
+    padding:15px 30px;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-right:20px;
+    
+  }
+  
+  .filled-border-button:hover {
+    background-color: #A36659; /* Same as the border */
+    color: white; /* Contrast text */
+    transition: 0.3s;
+  }
+  .apple{
+    display:flex;
+  }
+  .newpic{
+    margin-top:80px;
+    background-image: url(imag.jpg);
+    height:386.66px;
+    margin-left:80px;
+    width:386.66px;
+   margin-right:5px;
+   
+  }
+  .newpi{
+    margin-top:80px;
+    background-image: url(image\ 2.jpg);
+    height:386.66px;
+    margin-left:30px;
+    width:386.66px;
+   margin-right:5px;
+
+  }
+  .ni{
+    margin-top:80px;
+    background-image: url(iamge\ 3.jpg);
+    height:386.66px;
+    margin-left:30px;
+    width:386.66px;
+
+
+}
+.efgh{
+    display:flex;
+}
+.abcd{
+    padding-left: 80px;
+    padding-top: 10px;
+    text-transform: uppercase;
+    font-weight:700;
+  margin-right:5px;
+  display:flex;
+}
+.qst{
+    padding-left: 40px;
+    padding-top: 0px;
+    text-transform: uppercase;
+    font-weight:700;
+  margin-right:145px;
+}
+.aew{
+    padding-left: 80px;
+    padding-top: 0px;
+    text-transform: uppercase;
+    font-weight:700;
+  margin-right:0px;
+}
